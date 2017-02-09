@@ -1,0 +1,12 @@
+C:\Users\azuta\OneDrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.deps.json
+C:\Users\azuta\OneDrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+C:\Users\azuta\OneDrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb
+C:\Users\azuta\OneDrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.AssemblyInfo.cs
+C:\Users\azuta\OneDrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+C:\Users\azuta\OneDrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.deps.json
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.AssemblyInfo.cs
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\x64\Debug\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb

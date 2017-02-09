@@ -1,0 +1,11 @@
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.deps.json
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.runtimeconfig.json
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.runtimeconfig.dev.json
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.pdb
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\bin\x64\Debug\netcoreapp1.1\CoreRtCantWorkLibrarySample.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\obj\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.AssemblyInfo.cs
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\obj\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtErrorOccurredAppSample\obj\x64\Debug\netcoreapp1.1\CoreRtErrorOccurredAppSample.pdb

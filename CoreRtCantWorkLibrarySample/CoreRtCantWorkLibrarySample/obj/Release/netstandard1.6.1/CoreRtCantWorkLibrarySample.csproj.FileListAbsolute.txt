@@ -1,0 +1,13 @@
+c:\users\azuta\onedrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.deps.json
+c:\users\azuta\onedrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+c:\users\azuta\onedrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb
+c:\users\azuta\onedrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.AssemblyInfo.cs
+c:\users\azuta\onedrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+c:\users\azuta\onedrive\ドキュメント\visual studio 2017\Projects\Tests\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.deps.json
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\bin\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.csprojResolveAssemblyReference.cache
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.AssemblyInfo.cs
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.dll
+C:\Users\azuta\Downloads\dtnt\CoreRtCantWorkLibrarySample\CoreRtCantWorkLibrarySample\obj\Release\netstandard1.6.1\CoreRtCantWorkLibrarySample.pdb
